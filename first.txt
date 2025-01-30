@@ -1,0 +1,4 @@
+GNU stands for Gnu's Not Unix, and it is pronounced as “g-noo”. It is a recursive acronym, and it stands for “Gnu's Not Unix”.
+GNU is a free and open-source operating system that was started in 1984 by Richard Stallman. 
+GNU is based on the Unix operating system, but it has been greatly modified over the years.
+The common name "blue wildebeest" refers to the conspicuous, silvery-blue sheen of the coat, while the alternative name "gnu" originates from the name for these animals used by the Khoikhoi people, a native pastoralist people of southwestern Africa.
